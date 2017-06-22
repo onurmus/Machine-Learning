@@ -10,10 +10,8 @@ Thirdly, on Iris Data Set, I have found what is the best feature for classifatio
 #### The Classification Results
 When creating datasets, I use 70 of the samples as training samples and 30 as test samples.
 
-| | Iris Setosa | Iris Versicolour| | |
-| ----------	| ---- | -------- | ---- | -------- | -------------- | -------------- |
-|features 		| Mean | Variance | Mean | Variance | True Predicted | False Predicted |
-| ----------	| ---- | -------- | ---- | -------- | -------------- | -------------- |
+|features 		| Mean of IS | Variance of IS | Mean of IV  | Variance of IV | True Predicted | False Predicted |
+| :----------:	| ---- | -------- | ---- | -------- | -------------- | :-------------- |
 |sepal length	|4.948387 |0.138581 | 5.953846 | 0.252551 | 27 | 3|
 |sepal width	|3.383871 | 0.159398 | 2.776923 | 0.103401 | 26 | 4 |
 |petal length	|1.438710 | 0.031118 | 4.274359 | 0.232483 | 30 | 0|
